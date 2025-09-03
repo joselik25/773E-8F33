@@ -1,3 +1,5 @@
+import BirthdayGreeting from '@/components/BirthdayGreeting';
+
 export default function Home() {
-  return <></>;
+  return <BirthdayGreeting />;
 }
